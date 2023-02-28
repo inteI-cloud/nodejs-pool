@@ -26,7 +26,7 @@
     "moment": "2.21.0",
     "mysql": "2.15.0",
     "node-lmdb": "git+https://github.com/Venemo/node-lmdb.git#5941c1e553de4ae1d57a67d355b7c2dd87feaea6",
-    "promise-mysql": "3.0.0",
+    "promise-mysql": "3.3.2",
     "protocol-buffers": "^3.2.1",
     "range": "0.0.3",
     "request": "^2.79.0",
